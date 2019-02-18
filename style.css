@@ -1,0 +1,52 @@
+.box{
+  position: relative;
+  width: 100px;
+  height: 100px;
+  margin: 4px;
+  display: inline-block;
+}
+
+.red{
+  background-color: red;
+}
+
+.blue{
+  background-color: blue;
+}
+
+.yellow{
+  background-color: yellow;
+}
+
+.green{
+  background-color: green;
+}
+
+.display-font{
+  font-family: 'Righteous', cursive;
+}
+
+.about{
+  color:rgba(197, 9, 9, 0.644);
+  font-size: 6rem;
+}
+
+.about-text{
+  margin-top: 150px;
+  color: rgb(39, 49, 58);
+  font-size: 1.5rem;
+  /* text-align:justify;
+  text-justify:inter-character; */
+  font-family: 'Playfair Display', serif;
+}
+
+.turq-blue{
+  background-image: url('./assets/turqblue.png'), url('./assets/grey-circles.png');
+  /* background-image: ; */
+  background-size: 100% 100%, cover;
+  opacity: 0.5, 0.5;
+
+}
+
+
+
